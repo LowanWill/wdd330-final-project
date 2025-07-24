@@ -1,0 +1,189 @@
+[
+  {
+    "id": "family-001",
+    "name": "Chocolate Chip Cookies",
+    "description": "A family favorite",
+    "servings": 36,
+    "prepTime": 15,
+    "cookTime": 10,
+    "ingredients": [
+      "1 cup shortning",
+      "1 cup granulated sugar",
+      "1/2 cup brown sugar",
+      "2 large eggs",
+      "1 teaspoon vanilla extract",
+      "2 cups flour",
+      "1 tsp baking soda",
+      "pinch of salt",
+      "2 cups chocolate chips"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F ",
+      "Cream sugars and shortening together.  ",
+      "Add eggs and vanilla, mix util combined.  ",
+      "Sift together flour, baking soda, and salt and add to cookie mixture.",
+      "Mix until combined. Add chocolate chips, mix.",
+      "Scoop dough into inch dollops onto cookie sheet, two inches apart.",
+      "Bake for 8-10 minutes or until edges are golden brown."
+    ],
+    "category": "Dessert",
+    "familyMember": "Grandma Burton",
+    "image": null,
+    "isFamilyRecipe": true
+  },
+  {
+    "id": "family-002",
+    "name": "Bowtie Pasta- with Sausage, Peppers and Feta",
+    "description": "Best Pasta Ever",
+    "servings": 4,
+    "prepTime": 15,
+    "cookTime": 20,
+    "ingredients": [
+      "8oz of uncooked pasta",
+      "1 tsp olive oil",
+      "3 cups red pepper, ¼ inch thick slices",
+      "½ tsp salt",
+      "8 oz Italian sausage (I prefer hot)",
+      "1 tsp oregano",
+      "1 garlic clove, minced",
+      "¾ cup feta",
+      "¼ cup kalamata olives, sliced",
+      "Freshly ground pepper to taste"
+
+    ],
+    "instructions": [
+      "Cook pasta according to package directions.",
+      "Add 1 tsp salt to water before boiling.",
+      "Drain pasta in a colander, saving about ½ cup of the cooking water.",
+      "Heat oil in large nonstick pan over medium high heat.",
+      "Add bell peppers and ½ tsp salt.  Saute for 2 minutes.",
+      "Add sausage, oregano, and garlic to pan.",
+      "Cook 4 minutes or until sausage is done, stirring to crumble sausage.",
+      "Add pasta, cooking water, ¼ tsp salt, feta cheese, olives and black pepper.",
+      "Cook for 2 minutes or until thoroughly heated, stirring frequently."
+    ],
+    "category": "Pasta",
+    "familyMember": "Mom",
+    "image": null,
+    "isFamilyRecipe": true
+  },
+  {
+    "id": "family-003",
+    "name": "Honey Sriracha Chicken",
+    "description": "Sweet and spicy chicken with a sticky glaze",
+    "servings": 4,
+    "prepTime": 15,
+    "cookTime": 30,
+    "ingredients": [
+      "3-4 small chicken breasts, diced (or 2 large breasts)",
+      "1/3 cup cornstarch",
+
+    "Sauce",
+      "1 cup water",
+      "2-3 tbsp sriracha",
+      "5 tbsp soy sauce",
+      "1 tbsp minced garlic",
+      "¼ cup sugar",
+      "2-3 tbsp honey",
+      "2 tbsp cornstarch + 2 tbsp of water"
+    ],
+    "instructions": [
+      "Add bell peppers and ½ tsp salt.  Saute for 2 minutes.",
+      "Bring mixture to a boil over medium heat.",
+      "Whisk together the 2 tablespoons of corn starch and remaining 2 tablespoons of water until dissolved.",
+      "Add to sauce pan and stir until thickened.  Reduce heat to low.",
+
+     "Add diced chicken and 1/3 cup cornstarch to large plastic bag.",
+     "Seal the bag and shake to coat chicken.",
+     "Drizzle a large pan or skillet with oil over medium heat.",
+     "Add chicken and saute until browned and chicken is cooked through.",
+     "Add the sauce to the pan and stir to coat chicken."
+
+    ],
+    "category": "Main Course",
+    "familyMember": "Mom",
+    "image": null,
+    "isFamilyRecipe": true
+  },
+  {
+    "id": "family-004",
+    "name": "Ohana Honey Coriander Wings",
+    "description": "Chicken wing recipe from the Polynesian",
+    "servings": 6,
+    "prepTime": 15,
+    "cookTime": 30,
+    "ingredients": [
+      "Ohana Wings:",
+      "1 tbsp Kosher salt",
+      "1 tbsp ground paprika",
+      "1 tbsp sugar",
+      "¼ tsp black pepper",
+      "¼ tsp turmeric",
+      "¼ tsp cinnamon",
+      "¼ tsp garlic powder",
+      "1/8 tsp cayenne pepper",
+      "2 lbs chicken wings",
+
+    "Honey Coriander Sauce",
+      "1 tbsp chili powder",
+      "½ tsp ground ginger",
+      "1 tbsp lime juice",
+      "1 tbsp coriander",
+      "½ cup low sodium soy sauce",
+      "1 cup honey",
+      "2 tbsp of cornstarch",
+      "¼ cup water"
+
+    ],
+    "instructions": [
+      "Combine kosher salt, paprika, sugar, pepper, turmeric, cinnamon, garlic, and cayenne together in a mixing bowl.",
+      "Add wings and mix well to coat wings evenly.",
+      "Place chicken on a baking tray evenly spread out.",
+      "Let marinate in fridge for 1 hour.",
+      "Preheat oven to 475 Cook wings for 35 to 40 minutes or until the outside is crispy and wing are 165 internally.",
+
+     "While wings are in the oven, begin sauce with lime juice, soy sauce, and honey.",
+     "Sprinkle spices into pot and whisk constantly to avoid clumping.",
+     "Heat over stovetop  to a boil and let simmer for 1 minute.",
+     "Combine water and cornstarch.",
+     "As sauce is simmering, add cornstarch and water solution.",
+     "Continue to summer until sauce is thick.",
+     "When wings are done, combine wings and sauce in a clean mixing bowl and toss to evenly coat wings."
+
+
+    ],
+    "category": "Main Course",
+    "familyMember": "Mom",
+    "image": null,
+    "isFamilyRecipe": true
+  },
+  {
+    "id": "family-005",
+    "name": "Peanut Butter Balls",
+    "description": "Peanutty, chocolatey, crunchy goodness",
+    "servings": 6,
+    "prepTime": 60,
+    "cookTime": 0,
+    "ingredients": [
+      "1 Cup of Peanut Butter (can use crunchy)",
+      "1 cup of powdered sugar",
+      "4 tablespoons butter",
+      "½ cup of coconut",
+      "2 cups of Rice Krispies or crushed corn flakes"
+
+    ],
+    "instructions": [
+      "Mix together peanut butter and butter.",
+      "Add powdered sugar, and coconut.  Mix until combined.",
+      "Add cereal.  Mix well.",
+      "Roll into one inch balls and freeze.",
+      "Melt chocolate chips in a bowl and add a tablespoon of butter or oil.",
+      "Dip frozen balls in chocolate and place on cookie sheet lined with wax paper or parchment.",
+      "Cool in fridge or freezer."
+    ],
+    "category": "Dessert",
+    "familyMember": "Margaret Carmichael",
+    "image": null,
+    "isFamilyRecipe": true
+  }
+]

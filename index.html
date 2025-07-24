@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Family Cookbook</title>
+    <link rel="stylesheet" href="styles/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header class="header">
+        <div class="container">
+            <h1 class="logo">👨‍👩‍👧‍👦 Our Family Cookbook</h1>
+            <nav class="nav">
+                <button class="nav-btn active" data-view="family">Family Recipes</button>
+                <button class="nav-btn" data-view="favorites">Favorites</button>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <!-- Search Section -->
+            <section class="search-section">
+                <div class="search-container">
+                    <h2>Find New Recipes</h2>
+                    <form id="search-form" class="search-form">
+                        <div class="search-input-group">
+                            <input type="text" id="search-input"
+                                placeholder="Search for recipes (e.g., chicken, pasta, dessert)..." required>
+                            <button type="submit" class="search-btn">🔍 Search</button>
+                        </div>
+                    </form>
+                    <div id="loading" class="loading" style="display: none;">
+                        <div class="spinner"></div>
+                        <p>Searching for delicious recipes...</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Results Section -->
+            <section class="results-section">
+                <div class="section-header">
+                    <h2 id="section-title">Family Recipes</h2>
+                    <div class="view-toggle">
+                        <button class="toggle-btn active" data-view="grid">📱 Grid</button>
+                        <button class="toggle-btn" data-view="list">📄 List</button>
+                    </div>
+                </div>
+
+                <div id="recipes-container" class="recipes-grid">
+                    <!-- Recipes will be populated by JavaScript -->
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Our Family Cookbook. Made with ❤️ for sharing family traditions.</p>
+            <p class="api-note">Recipe search powered by Tasty API</p>
+        </div>
+    </footer>
+
+    <!-- Loading and Error Messages -->
+    <div id="message-container" class="message-container"></div>
+
+    <!-- JavaScript Modules -->
+    <script type="module" src="src/js/main.js"></script>
+</body>
+
+</html>
